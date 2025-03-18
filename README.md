@@ -6,16 +6,6 @@ This repository contains the implementation of a Super-Resolution Generative Adv
 
 The Super-Resolution GAN (SRGAN) model enhances the resolution of images by a factor of 2x within just 15 epochs. This project utilizes the VGG19 model architecture for image enhancement and quality optimization.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project aims to improve image quality by applying a Super-Resolution GAN (SRGAN) model. The key features of this project include:
